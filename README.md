@@ -10,5 +10,4 @@
 * The Distribution of Customers by their Gender.
 * The Distribution of Customers by their Job Classification. 
 
-```Large image
-![istockphoto-1192837450-612x612](https://user-images.githubusercontent.com/109621999/181698236-656522eb-6ec2-4218-a33b-b20277b4fbb9.jpeg)
+```Large image ![istockphoto-1192837450-612x612](https://user-images.githubusercontent.com/109621999/181698236-656522eb-6ec2-4218-a33b-b20277b4fbb9.jpeg)
